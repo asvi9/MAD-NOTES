@@ -98,4 +98,5 @@ Upon successful completion of this course, students will be able to:
 **Document Version:** 1.0  
 **Last Updated:** 01-10-2025  
 **Issued By:** Department of Computer Science & Engineering, Parul University  
+**Faculty Name:** Ashwani Mishra (Assistant professor) 
 
