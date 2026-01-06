@@ -1,12 +1,12 @@
 # Mobile Application Development (Android) - Course Syllabus & Overview  
-**Academic Year:** 2025–2026 | **University:** Paryul University | **Program:** B.Tech  
+**Academic Year:** 2025–2026 | **University:** Parul University | **Program:** B.Tech  
 
 ---
 
 ## 1. Course Information  
 - **Course Code:** 303105379  
 - **Prerequisite:** Basic knowledge of Java programming  
-- **Teaching Mode:** Lecture-based (no lab/tutorial components)  
+- **Teaching Mode:** Lecture-based & Practical base
 - **Credits:** 3  
 - **Assessment Type:** Theory-based with internal and external examination components  
 
