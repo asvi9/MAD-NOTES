@@ -3,6 +3,7 @@
                                                                                                           6CSE6 : 27/01/2026
                                                                                                           6CSE7:  29/01/2026
                                                                                                           6CSE8:  31/01/2026
+                                                                                                          6CSE10: 03/02/2026
                                                                                                           
 1.  What is Android? Explain the history and evolution of Android OS with advantages and limitations?
 2.  Explain Android Architecture with a neat diagram?
