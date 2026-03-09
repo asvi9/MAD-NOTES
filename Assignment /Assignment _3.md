@@ -5,21 +5,6 @@
                                            6CSE 10 - 20/03/2026
                                                                                                          
 
-
-**Unit 3: Android User Interface Elements and Layouts
-**
-1. Explain the concept of Material Design in Android and its importance in UI/UX design.
-
-2. Describe different Android layouts such as LinearLayout, FrameLayout, RelativeLayout, and ConstraintLayout with examples.
-
-3. Explain the dynamic implementation of layouts in Android using Java code.
-
-4. Discuss UI widgets in Android and explain their properties, events, and methods with examples.
-
-5. Write short notes on Dialog Boxes and Menus (Options Menu and Context Menu) in Android.
-
-   
-
 **Unit 4: Working with Views and Fragment
 **
 1. Explain the working and use of GridView in Android applications.
