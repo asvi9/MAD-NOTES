@@ -1,3 +1,11 @@
+                                                                                                                                                           6 CSE 5- 
+                                                                                                                                                           6 CSE 6-
+                                                                                                                                                           6 CSE 7- 
+                                                                                                                                                           6CSE 8-
+                                                                                                                                                           6CSE 10-
+
+
+
 **Unit 3: Android User Interface Elements and Layouts
 **
 1. Explain the concept of Material Design in Android and its importance in UI/UX design.
@@ -10,6 +18,8 @@
 
 5. Write short notes on Dialog Boxes and Menus (Options Menu and Context Menu) in Android.
 
+   
+
 **Unit 4: Working with Views and Fragment
 **
 1. Explain the working and use of GridView in Android applications.
@@ -21,6 +31,8 @@
 4. Write a detailed note on CardView and its advantages in Android UI design.
 
 5. Explain Fragments in Android with its lifecycle and implementation steps.
+
+   
 
 **Unit 5: Data Storage Techniques
 **
