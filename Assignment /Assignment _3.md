@@ -1,9 +1,9 @@
-                                                                                                                                                           6 CSE 5- 
-                                                                                                                                                           6 CSE 6-
-                                                                                                                                                           6 CSE 7- 
-                                                                                                                                                           6CSE 8-
-                                                                                                                                                           6CSE 10-
-
+                                                                                                                                                          
+                   6 CSE 5-                                                 6 CSE 7- 
+                   6 CSE 6-                                                 6 CSE 8-
+                                                                                                                                                           
+                                           6CSE 10-
+                                                                                                         
 
 
 **Unit 3: Android User Interface Elements and Layouts
