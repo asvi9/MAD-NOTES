@@ -206,7 +206,4 @@ Upon successful completion of this course, students will be able to:
   <i>Issued By: Department of Computer Science & Engineering, Parul University</i>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red" alt="Made with love">
-  <img src="https://img.shields.io/badge/Android-Development-green" alt="Android Development">
-</p>
+
